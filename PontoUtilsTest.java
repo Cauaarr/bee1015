@@ -1,4 +1,4 @@
-package br.com.seunome;
+package br.com.cauaR;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
